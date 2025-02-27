@@ -4,8 +4,15 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the process of designing, building, testing, and maintaining software to address user needs.
+
+security - software rngineering through  protection practices like two way authentication, authorization and data encryption has ensured that user information is secured.
+
+produtivity -  it helps to improve team workflow and creates an environment where teams can collaborate, communicate and  maintain quality standards in resource output and utilization.
+
+research and innovation - Software engineering the tech industry in research and innovation by providing the tools and methodologies to develop complex systems, prototypes.
+
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
