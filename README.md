@@ -14,10 +14,21 @@ research and innovation - Software engineering the tech industry in research and
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Programming languages - Mordern programming languages has made it easy to give instructions to the computer
+
+World Wide Web - The development of the world wide web enabled the creation of web applications
+
+Graphcal user interface (GUI) - The creation Graphical User Interface made it easier to interact with the computer through graphical icons instead of text-based UIs, which are based on typed command.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+ - Requirements: Gathering information on user needs and system requirements.
+  - Design: Creating detailed software architecture and friendly user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Testing software to ensure the software meets quality standards, design and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
