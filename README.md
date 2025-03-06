@@ -3,6 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
+Explain what software engineering is and discuss its importance in the technology industry
 
 Software engineering is the process of designing, building, testing, and maintaining software to address user needs.
 
@@ -22,6 +23,7 @@ Graphcal user interface (GUI) - The creation Graphical User Interface made it ea
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
  - Requirements: Gathering information on user needs and system requirements.
   - Design: Creating detailed software architecture and friendly user interface.
   - Implementation: Writing code and building the software according to the design specifications.
